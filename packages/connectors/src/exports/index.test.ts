@@ -9,6 +9,7 @@ test('exports', () => {
       "mock",
       "coinbaseWallet",
       "metaMask",
+      "blocto",
       "safe",
       "walletConnect",
       "version",
