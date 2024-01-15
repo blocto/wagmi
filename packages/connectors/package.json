@@ -45,6 +45,7 @@
     }
   },
   "dependencies": {
+    "@blocto/sdk": "^0.9.0",
     "@coinbase/wallet-sdk": "3.9.1",
     "@metamask/sdk": "0.14.1",
     "@safe-global/safe-apps-provider": "0.18.1",
@@ -56,7 +57,10 @@
     "@wagmi/core": "workspace:*",
     "msw": "^2.0.6"
   },
-  "contributors": ["awkweb.eth <t@wevm.dev>", "jxom.eth <j@wevm.dev>"],
+  "contributors": [
+    "awkweb.eth <t@wevm.dev>",
+    "jxom.eth <j@wevm.dev>"
+  ],
   "funding": "https://github.com/sponsors/wevm",
   "keywords": [
     "react",

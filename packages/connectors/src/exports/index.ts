@@ -11,6 +11,7 @@ export {
 } from '../coinbaseWallet.js'
 
 export { type MetaMaskParameters, metaMask } from '../metaMask.js'
+export { type BloctoParameters, blocto } from '../blocto.js'
 
 export { type SafeParameters, safe } from '../safe.js'
 
